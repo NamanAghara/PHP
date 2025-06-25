@@ -59,7 +59,7 @@
     </ol>  
     <br>
     <pre style="text-align: center">
-    <a href="http://localhost/Tasks/HTML/list%20task.php" target="_blank" ><h4>HTML Valid!</h4></a>
+    <a href="http://localhost/Tasks/HTML/list%20task.php" target="_blank">HTML Valid!</a>
     </pre>
 </body>
 </html>
